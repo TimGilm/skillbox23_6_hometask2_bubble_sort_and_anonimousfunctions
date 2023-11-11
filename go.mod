@@ -1,0 +1,3 @@
+module skillbox23_6_hometask2_bubble_sort_and_anonimousfunctions
+
+go 1.21
